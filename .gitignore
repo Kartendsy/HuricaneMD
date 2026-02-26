@@ -1,0 +1,12 @@
+# Binaries
+main
+*.exe
+
+# Whatsapp Sessions
+*.db
+*.db-shm
+*.db-wal
+
+
+# Go dependencies
+vendor/
